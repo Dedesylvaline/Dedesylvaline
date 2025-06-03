@@ -1,4 +1,5 @@
-# Hi there 👋 I'm DEDE SYLVALINE
+# Hi there 👋 I'm Dede Sylvaline
+
 I'm a passionate Virtual Assistant and Administrative Specialist who loves helping businesses stay organized, grow online, and run smoothly.
 
 ### 💼 What I Do
@@ -16,9 +17,7 @@ I'm a passionate Virtual Assistant and Administrative Specialist who loves helpi
 ### 📫 How to reach me
 - Email: [dedesylvaline@gmail.com]  
 - LinkedIn: [https://www.linkedin.com/in/dede-sylvaline-b3ab331a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]  
-
-
-- 
+   
 
 ---
 
