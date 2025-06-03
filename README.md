@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋 I'm DEDE SYLVALINE
+I'm a passionate Virtual Assistant and Administrative Specialist who loves helping businesses stay organized, grow online, and run smoothly.
 
-<!--
-**Dedesylvaline/Dedesylvaline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 What I Do
+- 🗂️ Virtual Assistance & Admin Support  
+- 📅 Calendar & Email Management  
+- 📊 Data Entry & File Organization  
+- 💻 Social Media & Web Research  
+- 📞 Customer Support  
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- Git & GitHub basics  
+- Freelancing on Upwork  
+- Productivity tools (Notion, Trello, etc.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+- Email: [dedesylvaline@gmail.com]  
+- LinkedIn: [https://www.linkedin.com/in/dede-sylvaline-b3ab331a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]  
+
+
+- 
+
+---
+
+> “Efficiency is doing things right; effectiveness is doing the right things.” – Peter Drucker
+
